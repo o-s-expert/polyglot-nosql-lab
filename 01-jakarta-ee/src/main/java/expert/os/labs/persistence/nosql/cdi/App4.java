@@ -1,7 +1,7 @@
 package expert.os.labs.persistence.nosql.cdi;
 
-import expert.os.books.persistence.nosql.news.Journalist;
-import expert.os.books.persistence.nosql.news.News;
+import expert.os.labs.persistence.nosql.cdi.news.Journalist;
+import expert.os.labs.persistence.nosql.cdi.news.News;
 import jakarta.enterprise.inject.se.SeContainer;
 import jakarta.enterprise.inject.se.SeContainerInitializer;
 

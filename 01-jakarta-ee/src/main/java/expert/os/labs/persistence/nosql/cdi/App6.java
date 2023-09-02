@@ -1,7 +1,7 @@
 package expert.os.labs.persistence.nosql.cdi;
 
-import expert.os.books.persistence.nosql.auditaded.FastSupplier;
-import expert.os.books.persistence.nosql.auditaded.SlowSupplier;
+import expert.os.labs.persistence.nosql.cdi.auditaded.FastSupplier;
+import expert.os.labs.persistence.nosql.cdi.auditaded.SlowSupplier;
 import jakarta.enterprise.inject.se.SeContainer;
 import jakarta.enterprise.inject.se.SeContainerInitializer;
 

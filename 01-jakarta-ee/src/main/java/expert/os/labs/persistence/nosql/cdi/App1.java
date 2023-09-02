@@ -1,7 +1,7 @@
 package expert.os.labs.persistence.nosql.cdi;
 
-import expert.os.books.persistence.nosql.vehicle.Car;
-import expert.os.books.persistence.nosql.vehicle.Vehicle;
+import expert.os.labs.persistence.nosql.cdi.vehicle.Car;
+import expert.os.labs.persistence.nosql.cdi.vehicle.Vehicle;
 import jakarta.enterprise.inject.se.SeContainer;
 import jakarta.enterprise.inject.se.SeContainerInitializer;
 

@@ -1,6 +1,6 @@
 package expert.os.labs.persistence.nosql.cdi;
 
-import expert.os.books.persistence.nosql.music.Orchestra;
+import expert.os.labs.persistence.nosql.cdi.music.Orchestra;
 import jakarta.enterprise.inject.se.SeContainer;
 import jakarta.enterprise.inject.se.SeContainerInitializer;
 

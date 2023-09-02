@@ -1,6 +1,6 @@
 package expert.os.labs.persistence.nosql.cdi;
 
-import expert.os.books.persistence.nosql.decorator.Worker;
+import expert.os.labs.persistence.nosql.cdi.decorator.Worker;
 import jakarta.enterprise.inject.se.SeContainer;
 import jakarta.enterprise.inject.se.SeContainerInitializer;
 
