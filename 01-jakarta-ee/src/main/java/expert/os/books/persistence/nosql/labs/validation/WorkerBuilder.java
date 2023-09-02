@@ -1,4 +1,4 @@
-package expert.os.books.persistence.nosql.labs;
+package expert.os.books.persistence.nosql.labs.validation;
 
 import org.joda.money.Money;
 

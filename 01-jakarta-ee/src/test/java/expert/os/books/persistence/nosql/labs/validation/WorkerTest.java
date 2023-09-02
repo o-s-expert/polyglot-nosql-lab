@@ -1,5 +1,6 @@
-package expert.os.books.persistence.nosql.labs;
+package expert.os.books.persistence.nosql.labs.validation;
 
+import expert.os.books.persistence.nosql.labs.validation.Worker;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validation;
 import jakarta.validation.Validator;
@@ -16,7 +17,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 class WorkerTest {
 
     private Validator validator;
-    private CurrencyUnit usd = CurrencyUnit.of("USD");
+    private final CurrencyUnit usd = CurrencyUnit.of("USD");
 
     @BeforeEach
     public void setUp() {
