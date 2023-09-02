@@ -1,0 +1,6 @@
+= Polyglot NoSQL Lab
+:toc: auto
+
+The workshop of Polyglot Persistence Lab.
+
+== Instructions
