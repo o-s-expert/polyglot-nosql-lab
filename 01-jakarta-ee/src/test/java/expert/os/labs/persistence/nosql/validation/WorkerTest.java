@@ -1,6 +1,5 @@
-package expert.os.books.persistence.nosql.labs.validation;
+package expert.os.labs.persistence.nosql.validation;
 
-import expert.os.books.persistence.nosql.labs.validation.Worker;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validation;
 import jakarta.validation.Validator;

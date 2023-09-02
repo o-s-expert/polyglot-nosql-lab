@@ -1,4 +1,4 @@
-package expert.os.books.persistence.nosql.labs.validation;
+package expert.os.labs.persistence.nosql.validation;
 
 
 import jakarta.validation.Constraint;
