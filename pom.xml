@@ -11,6 +11,11 @@
 
     <modules>
         <module>01-jakarta-ee</module>
+        <module>02-jax-rs</module>
+        <module>03-key-value</module>
+        <module>04-column</module>
+        <module>05-document</module>
+        <module>06-graph</module>
     </modules>
     
 </project>
