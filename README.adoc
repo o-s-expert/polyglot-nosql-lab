@@ -1,6 +1,43 @@
-= Polyglot NoSQL Lab
+= Student Labs: Polyglot NoSQL Workshop
 :toc: auto
 
-The workshop of Polyglot Persistence Lab.
+link:https://ultimate-engineer.github.io/polyglot-nosql/[Polyglot NoSQL Workshop Documentation,role="btn",style="btn-primary"]
 
-== Instructions
+link:https://ultimate-engineer.github.io/polyglot-nosql/setup/[Setup Instructions,role="btn",style="btn-info"]
+
+Welcome to the Student Labs project for the Polyglot NoSQL Workshop! In this project, you will create your own labs and documentation, learning how to integrate various NoSQL databases with Java using Jakarta NoSQL (formerly known as Eclipse JNoSQL).
+
+== Overview
+
+The goal of this project is to enable you to create and customize your own labs and documentation based on the Polyglot NoSQL Workshop. You'll gain hands-on experience with Redis, Cassandra, MongoDB, and Neo4j while learning to integrate these databases into Java applications.
+
+== Project Structure
+
+The project structure is organized as follows:
+
+* link:01-jakarta-ee[01-jakarta-ee]: This directory is intended for labs related to Jakarta EE concepts (excluding JAX-RS).
+* link:02-jax-rs[02-jax-rs]: Use this directory for labs focusing on JAX-RS.
+* link:03-key-value[03-key-value]: Create labs for Redis within this directory.
+* link:04-column[04-column]: Develop labs centered around Cassandra in this directory.
+* link:05-document[05-document]: For labs concentrating on MongoDB, use this directory.
+* link:06-graph[06-graph9027]: Create labs that explore Neo4j within this directory.
+
+== Getting Started
+
+To get started with your labs, follow these steps:
+
+1. Refer to the link:https://ultimate-engineer.github.io/polyglot-nosql/[Polyglot NoSQL Workshop Documentation] for comprehensive guidance and examples.
+
+2. Set up your development environment by following the link:https://ultimate-engineer.github.io/polyglot-nosql/setup/[Setup Instructions]. This includes configuring slides and Docker.
+
+3. Create your labs and documentation in the respective directories based on the topics you want to cover.
+
+4. Experiment, learn, and have fun exploring NoSQL databases with Java!
+
+== Additional Resources
+
+For additional labs and resolutions, refer to the workshop's GitHub repository: link:https://github.com/ultimate-engineer/polyglot-nosql/[GitHub Repository].
+
+== Contributions
+
+We encourage contributions from students and the community. If you have suggestions, questions, or improvements to share, feel free to open an issue or submit a pull request.
