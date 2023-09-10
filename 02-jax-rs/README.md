@@ -1,4 +1,4 @@
-# chapter-10
+# JAX-RS Lab
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
